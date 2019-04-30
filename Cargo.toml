@@ -1,0 +1,8 @@
+[package]
+name = "musicsorter-rust"
+version = "0.1.0"
+authors = ["riksolo <mail@riksolo.com>"]
+edition = "2018"
+
+[dependencies]
+walkdir = "2"
